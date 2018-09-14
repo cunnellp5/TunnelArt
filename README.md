@@ -1,17 +1,15 @@
 # Tunnel animation!
 
-
-## Get Started:
-$ git clone
+## Get Started: (from terminal)
+```
+$ git clone ${URL}
 
 $ cd into directory
 
-- spin up however you'd like, i use the following because its fast and native to your terminal
-
 $ http-server
 
-- open browser and enjoy rainbow tunnels
-
+- open in browser
+```
 
 ### Technologies:
 - vanilla JS / html / css (to position canvas)
