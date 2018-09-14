@@ -1,4 +1,5 @@
 # Tunnel animation!
+This is a practice in using threejs and heavy animation
 
 ## Get Started: (from terminal)
 ```
@@ -15,3 +16,5 @@ $ http-server
 - vanilla JS / html / css (to position canvas)
 - Three.js (https://threejs.org/)
 
+#### Deployed: 
+| https://codepen.io/philipcunnell/pen/evQgzQ
